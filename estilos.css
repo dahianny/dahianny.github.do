@@ -1,0 +1,65 @@
+body{
+font-family: 'poppins';
+background-color: rgb(240, 205, 157);
+
+  }
+
+li{
+    list-style: none;
+    margin-right: 120px;
+    padding: 20px;
+    font-size: 20px;
+   
+    
+}
+
+ul{
+    display: flex;
+  
+}
+p{
+    font-size: 40px;
+    
+}
+a{
+    list-style: none;
+}
+
+h1{
+    font-size: 50px;
+    margin: 0;
+}
+h2{
+    font-size: 25px;
+}
+.perfumes{
+    font-size: 25px;
+    background: #6dc0ff;
+    padding: 20px 30px 20px 30px;
+    color: aqua;
+}
+
+header{
+    background-color: rgb(240, 227, 126);
+  background-size: cover;
+  display: flex ;
+  align-items: center;
+   justify-content: space-between;
+   padding: 1px;
+   
+}
+
+.contenedor{
+    max-width: 1280px;
+    width: 90%;
+    margin: auto;
+    display: flex;
+}
+
+
+p{
+font-size: 60px;
+
+}
+
+

@@ -1,0 +1,20 @@
+.cab{
+    display: flex;
+}
+body{
+    background-color: rgb(237, 237, 115);
+}
+
+li{
+    list-style: none;
+    margin-right: 120px;
+    padding: 20px;
+    font-size: 20px;
+   
+    
+
+}
+ul{
+    display: flex;
+  
+}
